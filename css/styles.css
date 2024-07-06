@@ -281,7 +281,7 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  margin-bottom: 8px;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -299,7 +299,7 @@ img {
 .portfolio-img {
 }
 
-.portfolio-container {
+.portfolio-text-container {
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -312,6 +312,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-text {
